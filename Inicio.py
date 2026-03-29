@@ -51,7 +51,7 @@ st.markdown("""
     }
     [data-testid="stSidebar"] h2,
     [data-testid="stSidebar"] h3 {
-        color: #ffffff !important;
+        color: #000000 !important;
         font-weight: 700 !important;
         font-size: 0.95rem !important;
         text-transform: uppercase !important;
