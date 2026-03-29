@@ -81,7 +81,7 @@ st.markdown("""
         font-size: 0.9rem !important;
     }
     textarea:focus, input[type="text"]:focus {
-        border-color: #374151 !important;
+        border-color: #000000 !important;
         box-shadow: 0 0 0 2px rgba(55,65,81,0.12) !important;
     }
 
