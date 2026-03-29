@@ -1,5 +1,5 @@
 """
-☁️ WordCloud Studio — Nube de Palabras Profesional
+WordCloud Studio — Nube de Palabras Profesional
 Aplicación Streamlit con diseño corporativo limpio
 
 Instalación:
@@ -107,7 +107,7 @@ st.markdown("""
         font-weight: 600 !important;
     }
     p, li {
-        color: #374151 !important;
+        color: #ADD8E6 !important;
         font-size: 0.95rem !important;
         line-height: 1.65 !important;
     }
